@@ -13,8 +13,9 @@ Label smoothing : 0.1
 
 Cls : 0.3
 
-![image](https://github.com/user-attachments/assets/37b9621e-60a4-4911-85b3-ce23ef8a850e)
-![image](https://github.com/user-attachments/assets/8f02ae2c-2fdc-453c-8475-389ab9bd909a)
+![image](https://github.com/user-attachments/assets/36d87c78-6643-4829-ab09-1d40ee1b498e)
+![image](https://github.com/user-attachments/assets/31fb1bac-bf59-4d73-a004-4ed6d06d592a)
+
 
 
 
